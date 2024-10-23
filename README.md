@@ -1,5 +1,3 @@
-Certainly! Here's the documentation with Markdown syntax for GitHub:
-
 ---
 
 # **Project Documentation**
